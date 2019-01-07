@@ -1,2 +1,2 @@
 # portfolio
-Personal Portfolio
+Jeannette's Personal Portfolio
